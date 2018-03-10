@@ -48,3 +48,7 @@ The draw lie function was improved by segregating the points for the left part o
 
 * Use generalized hough transform to improve the curve detection
 * I have tried 2nd order polynomial fitting for the extrapolation of the points in the detected lines. However, it did not go so well. So one thing can be done is to divide the x-range in different segments and try out extrapolation again.
+
+### 4. Video of real-time straight line detector in lanes
+
+https://youtu.be/eBQMEXqEuhw
