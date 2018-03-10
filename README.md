@@ -51,4 +51,5 @@ The draw lie function was improved by segregating the points for the left part o
 
 ### 4. Video of real-time straight line detector in lanes
 
-https://youtu.be/eBQMEXqEuhw
+* https://youtu.be/eBQMEXqEuhw
+* https://youtu.be/0RJ2ZSRXgLM
